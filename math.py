@@ -10,7 +10,7 @@ def subs(a,b):
 mult implementaion
 added mult fn
 def mult(a,b):
-	return a*b //bug456
+	print a*b  #from local repo
 div implementaion
 added div fn
 def divide(a,b):
