@@ -6,7 +6,7 @@ def add(a,b):
 sub implementaion
 added sub fn
 def subs(a,b):
-	return a-b //on master
+	print a-b   #on remote
 mult implementaion
 added mult fn
 def mult(a,b):
