@@ -2,6 +2,7 @@ add implementaion
 added add fn
 def add(a,b):
 	return x+y
+	print '\n'	on bug123
 sub implementaion
 added sub fn
 def subs(a,b):
